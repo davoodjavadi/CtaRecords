@@ -1,4 +1,5 @@
 ##Cta Records In Laravel Project
+
 Dynamically record clicks on call-to-action buttons in Laravel.
 
 By installing this package, all `<a>` tags that include the `href="tel:"` attribute will be stored in the database when clicked by the user, with that number and address of the current page.
