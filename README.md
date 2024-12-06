@@ -1,4 +1,4 @@
-##Cta Records In Laravel Project
+#Cta Records In Laravel Project
 
 Dynamically record clicks on call-to-action buttons in Laravel.
 
